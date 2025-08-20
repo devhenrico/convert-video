@@ -16,7 +16,7 @@ Este é um script em Python que permite converter vídeos de um formato para out
 - Converte vídeos de um formato (ex: MKV, AVI) para outro (ex: MP4, MOV)
 - Mantém vídeo e áudio sem perda de qualidade
 - Permite escolher:
-    - Pasta conm o vídeo
+    - Pasta com o vídeo
     - Formato de entrada
     - Formato de saída
 - Mensagens informativas durante o processo
